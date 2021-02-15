@@ -5,7 +5,7 @@
 -->
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 ![Python](https://img.shields.io/badge/Python-Expert-orange)
 
 
