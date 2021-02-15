@@ -4,7 +4,7 @@
 **firdavsxon/firdavsxon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 ![Python](https://img.shields.io/badge/Python-Expert-orange)
 
