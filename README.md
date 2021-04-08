@@ -9,6 +9,7 @@
 ![Python](https://img.shields.io/badge/Python-Expert-orange)
 
 
+![firdavsxon's github stats](https://github-readme-stats.vercel.app/api?username=firdavsxon&show_icons=true)
 I'm a software developer in San Francisco.
 
 - 🔭 I’m currently working on Computer Vision project and Flask project.
