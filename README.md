@@ -6,6 +6,7 @@
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![React](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 ![Python](https://img.shields.io/badge/Python-Expert-orange)
 
 
