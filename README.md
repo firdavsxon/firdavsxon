@@ -3,8 +3,6 @@
 <!--
 **firdavsxon/firdavsxon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 ![React](https://img.shields.io/badge/React-Expert-orange)
 ![Python](https://img.shields.io/badge/Python-Expert-orange)
