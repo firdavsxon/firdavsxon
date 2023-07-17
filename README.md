@@ -14,7 +14,7 @@
 
 I'm a software developer in San Francisco.
 
-- 🔭 I’m currently working on Computer Vision project and Flask project.
+- 🔭 I’m currently working on a Computer Vision project and FastAPI/Flask/Django projects.
 - 🌱 I’m currently learning GRPC communications with protobuf, Typescript.
 - 👯 I’m looking to collaborate on Flask or Django, Machine learning projects.
 - 📫 How to reach me: akilovfs@gmail.com
